@@ -1,0 +1,27 @@
+PODS:
+  - ApexDataCollect-SDK (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - ApexDataCollect-SDK (from `../`)
+  - Expecta
+  - Specta
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  ApexDataCollect-SDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ApexDataCollect-SDK: 51312ea512272445db76a20827c8339c97d17079
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: 8e0fcd220b31305299acb2a9f83d9d73e3ef4a9b
+
+COCOAPODS: 1.8.4

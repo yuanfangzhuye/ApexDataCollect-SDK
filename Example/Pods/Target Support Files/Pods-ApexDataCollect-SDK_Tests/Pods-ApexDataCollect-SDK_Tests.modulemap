@@ -1,0 +1,6 @@
+framework module Pods_ApexDataCollect_SDK_Tests {
+  umbrella header "Pods-ApexDataCollect-SDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

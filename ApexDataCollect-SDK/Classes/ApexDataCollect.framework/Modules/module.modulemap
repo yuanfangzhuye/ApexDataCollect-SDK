@@ -1,0 +1,6 @@
+framework module ApexDataCollect {
+  umbrella header "ApexDataCollect.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ApexDataCollect-SDK",
+  "version": "0.1.0",
+  "summary": "A short description of ApexDataCollect-SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yuanfangzhuye/ApexDataCollect-SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yuanfangzhuye": "371551077@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yuanfangzhuye/ApexDataCollect-SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ApexDataCollect-SDK/Classes/**/*"
+}
